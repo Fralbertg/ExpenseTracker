@@ -1,0 +1,15 @@
+PODS:
+  - EasyStash (1.1.4)
+  - iOSDropDown (0.3.4)
+
+DEPENDENCIES:
+  - EasyStash
+  - iOSDropDown
+
+SPEC CHECKSUMS:
+  EasyStash: 6ff5bbb4278fc7bcba1ef9834f874e50625a7aab
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+
+PODFILE CHECKSUM: 25729b6077da3d569ac5bf9a4d16c878c0912cdf
+
+COCOAPODS: 1.4.0
